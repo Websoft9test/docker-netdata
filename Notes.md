@@ -1,6 +1,8 @@
-## About
+## Netdata
 
-This repository is forked from ONLYOFFICE/Docker-CommunityServer, we have the following modifications are provided
+Netdata 是一款非常热门的监控软件。但它与 Zabbix 不同，它开源的是客户端  
 
-* replace README.md
-* add README-zh.md, CHANGELOG.md, Note.md, License.md, docker-compose.yml,.env, src, .github folder
+有如下需要进一步了解
+
+* 如何设置账号登录？
+* 它是否支持监控本机之外的服务？
